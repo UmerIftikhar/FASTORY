@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="700dp"
+    android:height="1200dp"
+    android:viewportWidth="400"
+    android:viewportHeight="300">
+
+
+    <group android:name="test_move">
+    <path
+        android:fillColor="#cccccc"
+        android:pathData="M 70 20 H 10 V 550 H 700 V 20 Z" />
+
+    </group>
+</vector>

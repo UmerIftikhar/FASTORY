@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="700dp"
+    android:width="254dp"
+    android:viewportHeight="260"
+    android:viewportWidth="50" >
+
+<group android:name="mypallet">
+<path
+
+    android:fillColor="#cccccc"
+    android:pathData="M 0 0 H 26 V 125 H 0 V 0 Z" />
+
+</group>
+</vector>
